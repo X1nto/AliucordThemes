@@ -2,6 +2,7 @@
 	"name": "MidnightCord",
 	"author": "Xinto",
 	"version": "1.0.0",
+	"updater": "https://raw.githubusercontent.com/X1nto/AliucordThemes/master/MidnightCord/midnightcord.json",
 	"color_brand_new": -10374434,
 	"color_brand_new_300": -7025687,
 	"color_brand_new_330": -7025687,
